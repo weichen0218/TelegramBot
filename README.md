@@ -15,3 +15,4 @@ const token = "YOUR_TOKEN";
 node app.js
 ```
 ## Result
+![image](https://github.com/weichen0218/TelegramBot/blob/main/picture/result.png)
