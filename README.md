@@ -15,4 +15,4 @@ const token = "YOUR_TOKEN";
 node app.js
 ```
 ## Result
-<img src="https://github.com/weichen0218/TelegramBot/blob/main/images/result.png" alt="Cover" width="75%"/>
+<img src="https://github.com/weichen0218/TelegramBot/blob/main/images/result.png" alt="Cover" width="80%"/>
