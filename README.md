@@ -6,6 +6,10 @@ This is a Bot with sentiment analysis. In the context of telegram use, the Bot c
 npm install
 ```
 ## Setting up
+Search [@BotFather](https://t.me/BotFather)
+Click /start
+Type /newbot
+
 Change token in app.js
 ```javascript
 const token = "YOUR_TOKEN";
