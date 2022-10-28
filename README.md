@@ -6,10 +6,10 @@ This is a Bot with sentiment analysis. In the context of telegram use, the Bot c
 npm install
 ```
 ## Setting up
-Search [@BotFather](https://t.me/BotFather) -> Click /start -> Type /newbot -> Choose Bot name -> Choose username
+Search [@BotFather](https://t.me/BotFather) -> Click /start -> Type /newbot -> Choose Bot name -> Choose username -> Pick token
 
 <div align=center>
-<img src="https://github.com/weichen0218/TelegramBot/blob/main/images/step.png" alt="Cover" width="80%"/>
+<img src="https://github.com/weichen0218/TelegramBot/blob/main/images/botStep.png" alt="Cover" width="80%"/>
 </div>
 
 Change token in app.js
