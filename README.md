@@ -1,6 +1,8 @@
 # TelegramBot
 ## Introduction
 This is a Bot with sentiment analysis. In the context of telegram use, the Bot can effectively monitor the content or media information users share with others, and can correctly distinguish words or sentences.
+## Demo
+Search [@PedroBestFriendBot](https://t.me/PedroBestFriendBot) on Telegram
 ## Installation
 ```javascript
 npm install
