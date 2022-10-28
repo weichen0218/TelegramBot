@@ -1,7 +1,7 @@
 const telegramBot = require("node-telegram-bot-api");
 const Sentiment = require("sentiment");
 const sentiment = new Sentiment();
-const token = "5709250277:AAEOqDocCZRjfGbME1Ud3lk2-vNJcOu9toQ";
+const token = "YOUR_TOKEN";
 const api = new telegramBot(token, {
   polling: true,
 });
